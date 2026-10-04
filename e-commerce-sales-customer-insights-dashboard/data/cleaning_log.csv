@@ -1,0 +1,10 @@
+step,rows_before,rows_after,rows_affected,detail
+Drop duplicate orders,18532,18258,274,same order_id repeated
+Drop duplicate order lines,29446,29162,284,exact repeated rows
+Standardise product categories,12,7,5,12 spellings -> 7 categories
+Standardise status / payment labels,18258,18258,0,case + whitespace fixed
+Drop non-positive quantities,29162,29150,12,data-entry errors
+Drop future-dated orders,18258,18250,8,after 2025-09-30
+Impute missing values,0,0,0,"age median (240), gender/payment 'Unknown', location 'UNK' (120), discount 0 (294)"
+Drop lines without a valid order,29150,29134,16,orphans after order cleaning
+Final analysis table,29134,29134,0,"18,246 orders, 6,000 customers"

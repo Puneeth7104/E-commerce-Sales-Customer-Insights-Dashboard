@@ -1,0 +1,99 @@
+product_id,product_name,category,sub_category,unit_price,unit_cost
+P001,ELEC-001,Electronics,Power Bank,5210,4414.61
+P002,ELEC-002,Electronics,Webcam,4330,3848.07
+P003,ELEC-003,Electronics,Speaker,8480,6857.46
+P004,ELEC-004,electronics,Speaker,1090,922.09
+P005,ELEC-005,Electronics,Speaker,1960,1546.02
+P006,ELEC-006,Electronics,Speaker,5860,4962.19
+P007,ELEC-007,electronics,Webcam,1390,1158.5
+P008,ELEC-008,Electronics,Headphones,5930,4887.51
+P009,ELEC-009,Electronics,Headphones,5010,4295.86
+P010,ELEC-010,Electronics,Webcam,6950,5605.83
+P011,ELEC-011,Electronics,Power Bank,1280,1080.31
+P012,ELEC-012,Electronics,Headphones,1160,948.92
+P013,ELEC-013,Electronics,Power Bank,4850,3801.91
+P014,ELEC-014,Electronics,Smartwatch,1960,1653.56
+P015,FASH-015,Fashion,Kurta,600,374.41
+P016,FASH-016,Fashion,Sneakers,650,335.42
+P017,FASH-017,Fashion,Kurta,1030,497.97
+P018,FASH-018,Fashion,Kurta,790,382.0
+P019,FASH-019,Fashion,Jacket,2290,1311.03
+P020,FASH-020,Fashion,Jeans,1760,1094.81
+P021,FASH-021, Fashion ,Kurta,620,402.09
+P022,FASH-022,fashion,Kurta,1690,860.15
+P023,FASH-023,Fashion,Sneakers,2180,1216.91
+P024,FASH-024,fashion,Sneakers,540,338.63
+P025,FASH-025,Fashion,Jacket,1700,944.83
+P026,FASH-026,fashion,Sneakers,2100,1098.42
+P027,FASH-027, Fashion ,Kurta,1330,715.75
+P028,FASH-028,Fashion,Jeans,430,241.94
+P029,HOME-029,home & kitchen,Mixer,570,392.57
+P030,HOME-030,Home & Kitchen,Mixer,600,444.75
+P031,HOME-031,Home & Kitchen,Lamp,700,494.17
+P032,HOME-032,home & kitchen,Organizer,1590,1005.54
+P033,HOME-033,home & kitchen,Lamp,2190,1509.0
+P034,HOME-034,Home & Kitchen,Mixer,490,365.83
+P035,HOME-035,Home & Kitchen,Organizer,390,250.24
+P036,HOME-036,Home & Kitchen,Lamp,490,330.67
+P037,HOME-037,Home & Kitchen,Lamp,470,303.41
+P038,HOME-038,Home & Kitchen,Lamp,940,662.49
+P039,HOME-039,Home and Kitchen,Mixer,1980,1377.54
+P040,HOME-040,home & kitchen,Cookware,430,260.46
+P041,HOME-041,Home & Kitchen,Lamp,4560,2941.4
+P042,HOME-042,Home and Kitchen,Bedsheet,5470,3463.53
+P043,BEAU-043,Beauty,Fragrance,1220,561.36
+P044,BEAU-044,Beauty,Haircare,260,96.06
+P045,BEAU-045,Beauty,Fragrance,630,321.0
+P046,BEAU-046,Beauty,Haircare,860,442.6
+P047,BEAU-047,Beauty,Haircare,1740,693.04
+P048,BEAU-048,Beauty,Fragrance,600,254.72
+P049,BEAU-049,Beauty,Fragrance,870,365.43
+P050,BEAU-050,Beauty,Skincare,570,308.76
+P051,BEAU-051,Beauty,Fragrance,700,338.82
+P052,BEAU-052,Beauty,Skincare,260,112.44
+P053,BEAU-053,Beauty,Makeup,310,113.14
+P054,BEAU-054,Beauty,Fragrance,480,207.27
+P055,BEAU-055,Beauty,Haircare,210,75.24
+P056,BEAU-056,Beauty,Haircare,1440,768.17
+P057,BOOK-057,Books,Self-help,360,270.33
+P058,BOOK-058,Books,Comics,420,316.11
+P059,BOOK-059,Books,Academic,240,184.04
+P060,BOOK-060,Books,Academic,330,263.29
+P061,BOOK-061,Books,Academic,660,468.85
+P062,BOOK-062,Books,Fiction,400,315.66
+P063,BOOK-063,Books,Fiction,500,385.94
+P064,BOOK-064,Books,Academic,550,397.72
+P065,BOOK-065,Books,Comics,180,127.51
+P066,BOOK-066,Books,Fiction,160,119.12
+P067,BOOK-067,Books,Self-help,290,207.94
+P068,BOOK-068,Books,Comics,260,183.22
+P069,BOOK-069,Books,Comics,250,187.12
+P070,BOOK-070,Books,Self-help,800,626.83
+P071,SPOR-071,Sports,Running Shoes,450,330.63
+P072,SPOR-072,Sports,Running Shoes,3800,2613.29
+P073,SPOR-073,Sports,Yoga Mat,3790,2524.08
+P074,SPOR-074,Sports,Cricket Bat,890,608.94
+P075,SPOR-075,Sports,Running Shoes,2130,1584.62
+P076,SPOR-076,Sports,Yoga Mat,2640,2008.07
+P077,SPOR-077,Sports,Yoga Mat,4260,3254.02
+P078,SPOR-078,Sports,Yoga Mat,3260,2533.04
+P079,SPOR-079,Sports,Cricket Bat,630,447.36
+P080,SPOR-080,Sports,Running Shoes,660,497.28
+P081,SPOR-081,Sports,Dumbbells,2850,1864.54
+P082,SPOR-082,Sports,Cricket Bat,580,462.79
+P083,SPOR-083,Sports,Yoga Mat,710,553.96
+P084,SPOR-084,Sports,Cricket Bat,540,390.99
+P085,TOYS-085,Toys,Puzzle,1400,869.69
+P086,TOYS-086,Toys,Board Game,1840,1101.02
+P087,TOYS-087,Toys,Puzzle,1570,1095.42
+P088,TOYS-088,Toys,Board Game,2510,1637.55
+P089,TOYS-089,Toys,RC Car,530,337.58
+P090,TOYS-090,Toys,RC Car,2690,1805.81
+P091,TOYS-091,Toys,RC Car,2490,1782.28
+P092,TOYS-092,Toys,RC Car,1210,849.42
+P093,TOYS-093,Toys,Board Game,350,227.06
+P094,TOYS-094,Toys,Soft Toy,1100,617.52
+P095,TOYS-095,Toys,RC Car,1840,1178.6
+P096,TOYS-096,Toys,Soft Toy,260,182.38
+P097,TOYS-097,Toys,Puzzle,1960,1145.7
+P098,TOYS-098,Toys,Board Game,930,573.79

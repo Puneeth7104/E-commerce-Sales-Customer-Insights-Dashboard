@@ -1,0 +1,15 @@
+location_id,city,state,region,weight,lat,lon
+L01,bangalore ,Karnataka,South,1.0,12.97,77.59
+L02,MUMBAI,Maharashtra,West,1.05,19.08,72.88
+L03,Delhi,Delhi,North,1.0,28.61,77.21
+L04,Hyderabad,Telangana,South,0.8,17.39,78.49
+L05,Chennai,Tamil Nadu,South,0.75,13.08,80.27
+L06,Pune,Maharashtra,West,0.7,18.52,73.86
+L07,Kolkata,West Bengal,East,0.55,22.57,88.36
+L08,Ahmedabad,Gujarat,West,0.5,23.02,72.57
+L09,Jaipur,Rajasthan,North,0.35,26.91,75.79
+L10,Lucknow,Uttar Pradesh,North,0.3,26.85,80.95
+L11,Kochi,Kerala,South,0.3,9.93,76.27
+L12,Patna,Bihar,East,0.18,25.59,85.14
+L13,Guwahati,Assam,North-East,0.12,26.14,91.74
+L14,Bhubaneswar,Odisha,East,0.15,20.3,85.82
